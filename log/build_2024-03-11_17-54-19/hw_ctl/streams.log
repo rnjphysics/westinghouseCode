@@ -1,0 +1,42 @@
+[0.090s] Invoking command in '/home/cwrubotics/westinghouseCode/build/hw_ctl': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cwrubotics/westinghouseCode/hw_ctl -DCMAKE_INSTALL_PREFIX=/home/cwrubotics/westinghouseCode/install/hw_ctl
+[0.171s] -- The C compiler identification is GNU 11.4.0
+[0.382s] -- The CXX compiler identification is GNU 11.4.0
+[0.390s] -- Detecting C compiler ABI info
+[0.474s] -- Detecting C compiler ABI info - done
+[0.480s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.481s] -- Detecting C compile features
+[0.481s] -- Detecting C compile features - done
+[0.484s] -- Detecting CXX compiler ABI info
+[0.536s] -- Detecting CXX compiler ABI info - done
+[0.540s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.540s] -- Detecting CXX compile features
+[0.540s] -- Detecting CXX compile features - done
+[0.542s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.635s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.682s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.731s] -- Added test 'lint_cmake' to check CMake code style
+[0.731s] -- Added test 'xmllint' to check XML markup files
+[0.732s] -- Configuring done
+[0.733s] -- Generating done
+[0.733s] -- Build files have been written to: /home/cwrubotics/westinghouseCode/build/hw_ctl
+[0.737s] Invoked command in '/home/cwrubotics/westinghouseCode/build/hw_ctl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cwrubotics/westinghouseCode/hw_ctl -DCMAKE_INSTALL_PREFIX=/home/cwrubotics/westinghouseCode/install/hw_ctl
+[0.738s] Invoking command in '/home/cwrubotics/westinghouseCode/build/hw_ctl': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cwrubotics/westinghouseCode/build/hw_ctl -- -j8 -l8
+[0.765s] Invoked command in '/home/cwrubotics/westinghouseCode/build/hw_ctl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cwrubotics/westinghouseCode/build/hw_ctl -- -j8 -l8
+[0.798s] Invoking command in '/home/cwrubotics/westinghouseCode/build/hw_ctl': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cwrubotics/westinghouseCode/build/hw_ctl
+[0.806s] -- Install configuration: ""
+[0.806s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/ament_index/resource_index/package_run_dependencies/hw_ctl
+[0.806s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/ament_index/resource_index/parent_prefix_path/hw_ctl
+[0.806s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/environment/ament_prefix_path.sh
+[0.807s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/environment/ament_prefix_path.dsv
+[0.807s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/environment/path.sh
+[0.807s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/environment/path.dsv
+[0.807s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/local_setup.bash
+[0.807s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/local_setup.sh
+[0.808s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/local_setup.zsh
+[0.808s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/local_setup.dsv
+[0.808s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/package.dsv
+[0.808s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/ament_index/resource_index/packages/hw_ctl
+[0.808s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/cmake/hw_ctlConfig.cmake
+[0.808s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/cmake/hw_ctlConfig-version.cmake
+[0.809s] -- Installing: /home/cwrubotics/westinghouseCode/install/hw_ctl/share/hw_ctl/package.xml
+[0.810s] Invoked command in '/home/cwrubotics/westinghouseCode/build/hw_ctl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cwrubotics/westinghouseCode/build/hw_ctl

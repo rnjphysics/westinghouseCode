@@ -1,0 +1,6 @@
+Invoking command in '/home/cwrubotics/westinghouseCode/build/hw_ctl': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cwrubotics/westinghouseCode/src/hw_ctl -DCMAKE_INSTALL_PREFIX=/home/cwrubotics/westinghouseCode/install/hw_ctl
+Invoked command in '/home/cwrubotics/westinghouseCode/build/hw_ctl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cwrubotics/westinghouseCode/src/hw_ctl -DCMAKE_INSTALL_PREFIX=/home/cwrubotics/westinghouseCode/install/hw_ctl
+Invoking command in '/home/cwrubotics/westinghouseCode/build/hw_ctl': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cwrubotics/westinghouseCode/build/hw_ctl -- -j8 -l8
+Invoked command in '/home/cwrubotics/westinghouseCode/build/hw_ctl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cwrubotics/westinghouseCode/build/hw_ctl -- -j8 -l8
+Invoking command in '/home/cwrubotics/westinghouseCode/build/hw_ctl': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cwrubotics/westinghouseCode/build/hw_ctl
+Invoked command in '/home/cwrubotics/westinghouseCode/build/hw_ctl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cwrubotics/westinghouseCode/build/hw_ctl
