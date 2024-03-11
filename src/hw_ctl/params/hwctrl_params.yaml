@@ -1,0 +1,61 @@
+#### HARDWARE CONFIGURATIONS ####
+
+# BEGIN SENSOR CONFIGS
+hardware:
+
+# BEGIN MOTOR CONFIGS
+  motor:
+    front_right:
+      id: 10
+      name: 'FRONT RIGHT'
+      type: 'vesc'
+      can_id: 10
+      gear_reduction: 70 # gear_reduc*pole_pairs
+      max_rpm: 100
+      max_acceleration: 75
+      update_period: 0.25
+    front_left:
+      id: 20
+      name: 'FRONT LEFT'
+      type: 'vesc'
+      can_id: 20
+      gear_reduction: 70 # gear_reduc*pole_pairs
+      max_rpm: 100
+      max_acceleration: 75
+      update_period: 0.25
+    mid_right:
+      id: 30
+      name: 'MID RIGHT'
+      type: 'vesc'
+      can_id: 30
+      gear_reduction: 70 # gear_reduc*pole_pairs
+      max_rpm: 100
+      max_acceleration: 75
+      update_period: 0.25
+    mid_left:
+      id: 40
+      name: 'MID LEFT'
+      type: 'vesc'
+      can_id: 40
+      gear_reduction: 70 # gear_reduc*pole_pairs
+      max_rpm: 100
+      max_acceleration: 75
+      update_period: 0.25
+    back_right:
+      id: 50
+      name: 'BACK RIGHT'
+      type: 'vesc'
+      can_id: 50
+      gear_reduction: 70 # gear_reduc*pole_pairs
+      max_rpm: 100
+      max_acceleration: 75
+      update_period: 0.25
+    back_left:
+      id: 60
+      name: 'BACK LEFT'
+      type: 'vesc'
+      can_id: 6 0
+      gear_reduction: 70 # gear_reduc*pole_pairs
+      max_rpm: 100
+      max_acceleration: 75
+      update_period: 0.25
