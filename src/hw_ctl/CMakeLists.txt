@@ -45,7 +45,7 @@ endif()
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS TRUE)
 
-find_package(catkin REQUIRED COMPONENTS
+find_package(
   roscpp
   std_msgs
   sensor_msgs
@@ -74,18 +74,6 @@ generate_messages(
     geometry_msgs
 )
 
-catkin_package(
-  INCLUDE_DIRS include
-#  LIBRARIES hwctrl
-  CATKIN_DEPENDS roscpp std_msgs message_runtime sensor_msgs geometry_msgs
-#  DEPENDS system_lib
-  CATKIN_DEPENDS message_runtime
-)
-
-include_directories(
-  include
-  ${catkin_INCLUDE_DIRS}
-)
 
 add_executable(hwctrl
   src/hwctrl_node.cpp
