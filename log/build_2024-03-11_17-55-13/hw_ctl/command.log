@@ -1,2 +1,0 @@
-Invoking command in '/home/cwrubotics/westinghouseCode/build/hw_ctl': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cwrubotics/westinghouseCode/build/hw_ctl -- -j8 -l8
-Invoked command in '/home/cwrubotics/westinghouseCode/build/hw_ctl' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cwrubotics/westinghouseCode/build/hw_ctl -- -j8 -l8

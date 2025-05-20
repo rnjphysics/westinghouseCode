@@ -1,0 +1,10 @@
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/uninstall.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/motor_ctl_uninstall.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/motor_cmd.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/test.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/list_install_components.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/install.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/install/local.dir
+/mnt/c/Users/james/OneDrive/Documents/GitHub/westinghouseCode/build/motor_ctl/CMakeFiles/install/strip.dir

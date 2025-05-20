@@ -1,5 +1,0 @@
-[0.031s] Invoking command in '/home/cwrubotics/westinghouseCode/build/hw_ctl': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cwrubotics/westinghouseCode/build/hw_ctl -- -j8 -l8
-[0.040s] [0mCMake Error: The source directory "/home/cwrubotics/westinghouseCode/hw_ctl" does not exist.
-[0.040s] Specify --help for usage, or press the help button on the CMake GUI.[0m
-[0.041s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
-[0.042s] Invoked command in '/home/cwrubotics/westinghouseCode/build/hw_ctl' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cwrubotics/westinghouseCode/build/hw_ctl -- -j8 -l8

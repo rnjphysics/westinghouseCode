@@ -1,4 +1,0 @@
-source;share/hw_ctl/local_setup.bash
-source;share/hw_ctl/local_setup.dsv
-source;share/hw_ctl/local_setup.sh
-source;share/hw_ctl/local_setup.zsh

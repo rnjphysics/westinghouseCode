@@ -1,0 +1,4 @@
+source;share/motor_ctl/local_setup.bash
+source;share/motor_ctl/local_setup.dsv
+source;share/motor_ctl/local_setup.sh
+source;share/motor_ctl/local_setup.zsh

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+     <rosparam command="load" file="$(find motor_clt)/params/motor_ctl_params.yaml"/>
+    <node  name="motor_ctl_node" pkg="motor_ctl"  >
+
+    </node>
+</launch>
