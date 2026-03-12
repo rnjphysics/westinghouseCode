@@ -1,0 +1,17 @@
+in workspace src:
+
+ros2 pkg create robot_msgs --build-type ament_cmake
+ros2 pkg create robot_locomotion --build-type ament_cmake --dependencies rclcpp geometry_msgs robot_msgs
+ros2 pkg create robot_can --build-type ament_cmake --dependencies rclcpp robot_msgs
+
+
+build
+
+cd robot_ws
+colcon build
+
+source install/setup.bash
+
+check
+
+ros2 pkg list | grep robot
